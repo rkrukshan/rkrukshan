@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rukmanghan</h1>
 <h3 align="center">I'm a Passionate developer from Srilanka</h3>
-<img align="right" alt="coding" width="400" height="250"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p><br><br><br><br><br>
+<img align="right" alt="coding" width="400" height="250"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 - 🌱 I’m currently learning *MERN*
 
 - 💬 Ask me about **Laravel and PHP**
