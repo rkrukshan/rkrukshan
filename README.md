@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukmanghan</h1>
-<h3 align="center">I'm a Passionate Fullstack developer from Srilanka</h3>
+<h3 align="center">I'm a Passionate full-stack developer from Srilanka</h3>
 <img align="right" alt="coding" height="450" width="1020"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 <center>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukmanghanselvakumar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rukmanghan-selvakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukmanghanselvakumar" height="30" width="40" /></a>
 <a href="https://fb.com/rkrukshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rkrukshan" height="30" width="40" /></a>
 </p>
 
