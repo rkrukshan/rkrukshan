@@ -3,8 +3,7 @@
 <img align="right" alt="coding" height="450" width="1020"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 <center>
-- 🌱 I’m currently learning *MERN* ![image](https://github.com/user-attachments/assets/a165f389-f4c4-4e4d-bbb9-8937d9f24a19)
-
+- 🌱 I’m currently learning *MERN* 
 
 
 - 💬 Ask me about ** Javascript **      ![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
