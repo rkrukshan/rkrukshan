@@ -5,7 +5,8 @@
 <center>
 - 🌱 I’m currently learning *MERN*
 
-- 💬 Ask me about ** Javascript **![image](https://github.com/user-attachments/assets/c4c7a718-e979-4737-a12e-6f3501b4325d)
+- 💬 Ask me about ** Javascript **![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
+
 
 
 - 📫 How to reach me **rukshan1122@gmail.com**
