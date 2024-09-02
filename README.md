@@ -5,7 +5,8 @@
 <center>
 - 🌱 I’m currently learning *MERN*
 
-- 💬 Ask me about ** Javascript **https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F12697298-3d-javascript-logo-design&psig=AOvVaw0zAKyU14U9B93uPJCUki47&ust=1725354548831000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDcsdv0o4gDFQAAAAAdAAAAABAE
+- 💬 Ask me about ** Javascript **![image](https://github.com/user-attachments/assets/c4c7a718-e979-4737-a12e-6f3501b4325d)
+
 
 - 📫 How to reach me **rukshan1122@gmail.com**
 - </center>
