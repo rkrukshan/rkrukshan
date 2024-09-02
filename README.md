@@ -5,7 +5,8 @@
 <center>
 - 🌱 I’m currently learning *MERN*
 
-- 💬 Ask me about **Laravel and PHP**
+- 💬 Ask me about **Javascript ![image](https://github.com/user-attachments/assets/b49ed7a7-fd79-443c-ac88-ba95956bbf4f)
+**
 
 - 📫 How to reach me **rukshan1122@gmail.com**
 - </center>
