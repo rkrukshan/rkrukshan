@@ -128,13 +128,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
-<!-- React Router -->
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/remix-run/react-router/docs/static/logo.png" 
-       alt="react router" width="40" height="40"/>
-</a>
-
-
+[![React Router](https://raw.githubusercontent.com/remix-run/react-router/main/docs/static/logo.png)](https://reactrouter.com/)
 
   <!-- Axios -->
  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
