@@ -118,20 +118,23 @@
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer motion" width="40" height="40"/>
   </a>
 
-  <!-- Redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
+ <!-- Redux -->
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
 
-[![React Router](https://raw.githubusercontent.com/remix-run/react-router/main/docs/static/logo.png)](https://reactrouter.com/)
+<!-- React Router -->
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/static/logo.png" alt="react-router" width="40" height="40"/>
+</a>
 
-  <!-- Axios -->
- <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+<!-- Axios -->
+<a href="https://axios-http.com/" target="_blank" rel="noreferrer">
   <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/>
 </a>
 
