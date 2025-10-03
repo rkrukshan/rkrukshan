@@ -9,7 +9,7 @@
 - 💬 Ask me about ** Javascript **      ![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
 
 ## 🚀 About Me
-- 🔭 Currently working on **Spring Boot & .NET projects**
+- 🔭 Currently working on **Full Stack Projects**
 - 🌱 Exploring **React + Tailwind CSS** for front-end
 - 💡 Interested in mastering **full-stack development**
 - ⚡ Believe in continuous learning & clean coding practices  
@@ -19,7 +19,8 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-- Java (Spring Boot)  
+- Spring Boot
+- Java  
 - API Deveopment  
 - JavaScript (React, Next.js)  
 
@@ -128,7 +129,7 @@
   </a>
 
  <!-- React Router -->
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <a href="[https://reactrouter.com/](https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png)" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
   </a>
 
