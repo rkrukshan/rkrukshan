@@ -56,6 +56,9 @@ I thrive on adapting to **new technologies and frameworks** to continuously impr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rukmanghan-selvakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukmanghanselvakumar" height="30" width="40" /></a>
+<a href="https://medium.com/@rukshan1122" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rukmanghanselvakumar" height="30" width="40" />
+</a>
 <a href="https://github.com/rkrukshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github:rkrukshan" height="30" width="40" /></a>
 </p>
 
