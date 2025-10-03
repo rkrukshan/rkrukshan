@@ -128,10 +128,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
- <!-- React Router -->
-  <a href="[https://reactrouter.com/](https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png)" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
-  </a>
+<!-- React Router -->
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
+</a>
+
 
 
   <!-- Axios -->
