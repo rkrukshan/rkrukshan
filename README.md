@@ -49,7 +49,8 @@ I thrive on adapting to **new technologies and frameworks** to continuously impr
 
 ---
 
-⭐️ *“Learning never exhausts the mind.”*  
+⭐️ *“A curious mind that embraces lifelong learning is never exhausted — only empowered.”*
+
 - </center>
 
 <h3 align="left">Connect with me:</h3>
