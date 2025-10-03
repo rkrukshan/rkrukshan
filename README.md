@@ -129,14 +129,14 @@
 
   <!-- React Router (v7) -->
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <!-- fallback generic router logo -->
-    <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/logo.svg" alt="react-router" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/vertical-alt.png" alt="react router" width="40" height="40"/>
+</a>
+
 
   <!-- Axios -->
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/axios/axios/master/assets/logo.svg" alt="axios" width="40" height="40"/>
-  </a>
+ <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+  <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/>
+</a>
 
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
