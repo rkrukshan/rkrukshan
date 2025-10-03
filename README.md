@@ -84,9 +84,17 @@ I thrive on adapting to **new technologies and frameworks** to continuously impr
   </a>
 
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" class="tech-icon"/>
-  </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+    alt="Git" 
+    width="50" 
+    height="50" 
+    class="tech-icon"
+    style="filter: brightness(0) invert(1);"
+  />
+</a>
+
 
   <!-- GitHub -->
   <a href="https://github.com/rkrukshan" target="_blank" rel="noreferrer">
