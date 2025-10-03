@@ -128,10 +128,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
-[<!-- React Router -->
+<!-- React Router -->
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
-</a>](https://www.svgrepo.com/show/354262/react-router.svg)
+  <img src="https://cdn.jsdelivr.net/gh/remix-run/react-router/docs/static/logo.png" 
+       alt="react router" width="40" height="40"/>
+</a>
 
 
 
