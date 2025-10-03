@@ -80,7 +80,7 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/rjrj" target="_blank" rel="noreferrer">
+  <a href="https://github.com/rkrukshan" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" class="tech-icon"/>
   </a>
 
