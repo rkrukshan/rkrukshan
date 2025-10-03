@@ -9,14 +9,14 @@
 - 💬 Ask me about ** Javascript **      ![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
 
 ## 🚀 About Me
-I am a **Full-Stack Developer** passionate about building **scalable, maintainable, and efficient applications**.  
-I enjoy working across the **entire development stack**, from backend APIs to modern front-end interfaces.  
+I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
+I thrive on adapting to **new technologies and frameworks** to continuously improve my skills and deliver impactful solutions.  
 
 ### 💡 Key Focus Areas
 - 🔭 Currently building **full-stack projects** using Spring Boot, React, and Tailwind CSS  
 - 🌱 Continuously exploring **modern front-end frameworks and tools**  
 - ⚡ Committed to **clean code, best practices, and performance optimization**  
-- 🔍 Always learning **new technologies** to stay ahead and deliver impactful solutions
+- 🔍 Always **learning, adapting, and mastering new technologies**
 
 
 ---
