@@ -129,7 +129,7 @@
 
   <!-- React Router (v7) -->
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/vertical-alt.png" alt="react router" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
 </a>
 
 
