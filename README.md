@@ -3,16 +3,21 @@
 <img align="right" alt="coding" height="450" width="1020"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 <center>
-- 🌱 I’m currently learning *MERN* 
+- 🌱 I’m currently learning *FullStack* 
 
 
 - 💬 Ask me about ** Javascript **      ![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
 
 ## 🚀 About Me
-- 🔭 Currently working on **Full Stack Projects**
-- 🌱 Exploring **React + Tailwind CSS** for front-end
-- 💡 Interested in mastering **full-stack development**
-- ⚡ Believe in continuous learning & clean coding practices  
+I am a **Full-Stack Developer** passionate about building **scalable, maintainable, and efficient applications**.  
+I enjoy working across the **entire development stack**, from backend APIs to modern front-end interfaces.  
+
+### 💡 Key Focus Areas
+- 🔭 Currently building **full-stack projects** using Spring Boot, React, and Tailwind CSS  
+- 🌱 Continuously exploring **modern front-end frameworks and tools**  
+- ⚡ Committed to **clean code, best practices, and performance optimization**  
+- 🔍 Always learning **new technologies** to stay ahead and deliver impactful solutions
+
 
 ---
 
