@@ -127,10 +127,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
-  <!-- React Router (v7) -->
+ <!-- React Router -->
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
-</a>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="react router" width="40" height="40"/>
+  </a>
 
 
   <!-- Axios -->
