@@ -84,12 +84,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" class="tech-icon"/>
   </a>
 
-  <!-- React Router -->
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-router-afaraavuno5ulxx3m6dqif.png/react-router-iz5gsrt4bescjzyay2otud.png?_a=DATAg1AAZAA0" 
-       alt="React Router" width="50" height="50" class="tech-icon"/>
-</a>
-
 
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -148,16 +142,6 @@
 
 </p>
 
-<style>
-  .tech-icon {
-    margin: 12px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  .tech-icon:hover {
-    transform: scale(1.2);
-    filter: brightness(1.2);
-  }
-</style>
 
 
 
