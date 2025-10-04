@@ -42,6 +42,21 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
   </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+</a>
+
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="50" height="50"/>
+</a>
+
+<a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="Axios" width="50" height="50"/>
+</a>
+
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="React Router" width="50" height="50"/>
+</a>
 </p>
 
 ### **Backend Development**
