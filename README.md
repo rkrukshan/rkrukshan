@@ -1,171 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rukmanghan</h1>
-<h3 align="center">I'm a Passionate full-stack developer from Srilanka</h3>
-<img align="right" alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
-<center>
-- 💬 Ask me about ** Javascript Springboot **
+# 👋 Hi, I'm Rabc
+
+<div align="center">
+
+**Full-Stack Developer** | **Java & JavaScript Enthusiast** | **Building Scalable Solutions**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abc&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/abc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abc/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abc@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@abcshan1122)
+
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</div>
 
 ## 🚀 About Me
-<p align = left>
-  I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
-I thrive on adapting to **new technologies and frameworks** to continuously improve my skills and deliver impactful solutions.  
-</p>
 
+I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mindset and dedication to building scalable, maintainable, and efficient applications. I thrive on adapting to new technologies and frameworks to continuously improve my skills and deliver impactful solutions.
 
-### 💡 Key Focus Areas
-- 🔭 Currently building **full-stack projects** using Spring Boot, React, and Tailwind CSS  
-- 🌱 Continuously exploring **modern front-end frameworks and tools**  
-- ⚡ Committed to **clean code, best practices, and performance optimization**  
+### 💡 What I'm Up To
+- 🔭 Building **full-stack projects** using Spring Boot, React, and Tailwind CSS
+- 🌱 Exploring **modern front-end frameworks and tools**
+- ⚡ Committed to **clean code, best practices, and performance optimization**
 - 🔍 Always **learning, adapting, and mastering new technologies**
-
-
----
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-- Spring Boot
-- Java  
-- API Deveopment  
-- JavaScript (React, Next.js)  
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-**Databases**  
-- SQL Server  
-- MySQL  
-- MongoDB  
+### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
-**Other Tools**  
-- Git & GitHub  
-- VS Code  / Intellij Idea 
-- Postman / Insomnia
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abc&theme=radical)
+
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abc/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abcshan1122)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@gmail.com)
+
+</div>
 
 ---
 
-- 📫 How to reach me **rukshan1122@gmail.com**
+<div align="center">
 
-- ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/rukmanghan-selvakumar/))  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-rukshan1122@gmail.com)  
+### 💬 "A curious mind that embraces lifelong learning is never exhausted — only empowered."
 
----
+⭐️ From [abc](https://github.com/abc)
 
-⭐️ *“A curious mind that embraces lifelong learning is never exhausted — only empowered.”*
-
-- </center>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rukmanghan-selvakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukmanghanselvakumar" height="30" width="40" /></a>
-<a href="https://medium.com/@rukshan1122" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rukmanghanselvakumar" height="30" width="40" />
-</a>
-<a href="https://github.com/rkrukshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github:rkrukshan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-<p align="center">
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Git -->
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-    alt="Git" 
-    width="50" 
-    height="50" 
-    class="tech-icon"
-    style="filter: brightness(0) invert(1);"
-  />
-</a>
-
-
-  <!-- GitHub -->
-  <a href="https://github.com/rkrukshan" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" class="tech-icon"/>
-  </a>
-
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Axios -->
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Framer Motion -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- Insomnia -->
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- IntelliJ IDEA -->
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" class="tech-icon"/>
-  </a>
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" class="tech-icon"/>
-  </a>
-
-</p>
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkrukshan&show_icons=true&locale=en&layout=compact" alt="rkrukshan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&locale=en" alt="rkrukshan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&" alt="rkrukshan" /></p>
+</div>
