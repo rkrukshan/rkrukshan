@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rukshan1122@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@rukshan1122)
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </div>
