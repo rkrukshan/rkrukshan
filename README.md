@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Rabc
+# 👋 Hi, I'm Rukmanghan
 
 <div align="center">
 
-**Full-Stack Developer** | **Java & JavaScript Enthusiast** | **Building Scalable Solutions**
+**Full-Stack Developer** | **SpringBoot & JavaScript Enthusiast** | **Building Scalable Solutions**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abc&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/abc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abc/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abc@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@abcshan1122)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rukmanghan-selvakumar/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rukshan1122@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@rukshan1122)
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -68,9 +68,6 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL Workbench" width="50" height="50"/>
-  </a>
 </p>
 
 ### **Tools & Platforms**
@@ -99,11 +96,11 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&theme=radical&locale=en" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&locale=en" alt="abc" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abc&show_icons=true&theme=radical&locale=en&layout=compact" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkrukshan&show_icons=true&theme=radical&locale=en&layout=compact" alt="abc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abc&theme=radical" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&theme=radical" alt="abc" /></p>
 
 </div>
 
@@ -112,13 +109,13 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 <div align="center">
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abc/" target="blank">
+  <a href="https://www.linkedin.com/in/rukmanghan-selvakumar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@abcshan1122" target="_blank">
+  <a href="https://medium.com/@rukshan1122" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abc" height="30" width="40" />
   </a>
-  <a href="https://github.com/abc" target="blank">
+  <a href="https://github.com/rkrukshan" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github:abc" height="30" width="40" />
   </a>
 </p>
@@ -127,10 +124,4 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 ---
 
-<div align="center">
 
-### 💬 "A curious mind that embraces lifelong learning is never exhausted — only empowered."
-
-⭐️ From [abc](https://github.com/abc)
-
-</div>
