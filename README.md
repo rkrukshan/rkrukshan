@@ -3,10 +3,7 @@
 <img align="right" alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 <center>
-- 🌱 I’m currently learning *FullStack* 
-
-
-- 💬 Ask me about ** Javascript **      ![image](https://github.com/user-attachments/assets/8a4f2dcf-4370-4747-b11b-aa60524639f7)
+- 💬 Ask me about ** Javascript Springboot **
 
 ## 🚀 About Me
 I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
