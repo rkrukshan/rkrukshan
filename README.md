@@ -6,8 +6,10 @@
 - 💬 Ask me about ** Javascript Springboot **
 
 ## 🚀 About Me
-I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
+<p align = left>
+  I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
 I thrive on adapting to **new technologies and frameworks** to continuously improve my skills and deliver impactful solutions.  
+</p>
 
 ### 💡 Key Focus Areas
 - 🔭 Currently building **full-stack projects** using Spring Boot, React, and Tailwind CSS  
