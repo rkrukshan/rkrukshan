@@ -53,10 +53,6 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="Axios" width="50" height="50"/>
 </a>
-
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-  <img src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="React Router" width="50" height="50"/>
-</a>
 </p>
 
 ### **Backend Development**
@@ -67,6 +63,9 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/apis" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="ASP.NET Web API" width="50" height="50"/>
+</a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   </a>
