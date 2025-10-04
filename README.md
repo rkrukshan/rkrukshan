@@ -1,27 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rukmanghan</h1>
 <h3 align="center">I'm a Passionate full-stack developer from Srilanka</h3>
 <img align="right" alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=rjrj&label=Profile%20views&color=0e75b6&style=flat" alt="rjrj" />
-      </p>
-      <p>
-        - 💬 Ask me about **JavaScript & Spring Boot**
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p align="left">
-        I am a <b>Full-Stack Developer</b> with a <b>passionate and curious mindset</b>, dedicated to building 
-        <b>scalable, maintainable, and efficient applications</b>.  
-        I thrive on adapting to <b>new technologies and frameworks</b> to continuously improve my skills 
-        and deliver impactful solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
+<center>
+- 💬 Ask me about ** Javascript Springboot **
+
+## 🚀 About Me
+<p align = left>
+  I am a **Full-Stack Developer** with a **passionate and curious mindset**, dedicated to building **scalable, maintainable, and efficient applications**.  
+I thrive on adapting to **new technologies and frameworks** to continuously improve my skills and deliver impactful solutions.  
+</p>
 
 
 ### 💡 Key Focus Areas
