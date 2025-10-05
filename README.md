@@ -108,11 +108,11 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&locale=en" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&locale=en" alt="rkrukshan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkrukshan&show_icons=true&theme=radical&locale=en&layout=compact" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkrukshan&show_icons=true&theme=radical&locale=en&layout=compact" alt="rkrukshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&theme=radical" alt="abc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&theme=radical" alt="rkrukshan" /></p>
 
 </div>
 
@@ -128,7 +128,7 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abc" height="30" width="40" />
   </a>
   <a href="https://github.com/rkrukshan" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github:abc" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github:rkrukshan" height="30" width="40" />
   </a>
 </p>
 
