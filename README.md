@@ -25,81 +25,40 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 ## 🛠️ Tech Stack
 
-### **Frontend Development**
+## ⚛️ Frontend
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="Next.js" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" alt="Redux" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/framer.svg" alt="Framer Motion" width="50" height="50"/>
-  </a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" title="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" title="Next.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" title="Tailwind" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-1.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" title="MUI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="Axios" width="40" title="Axios" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" title="Redux" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" title="Framer Motion" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" title="HTML5" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" title="CSS3" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" title="JavaScript" />
+  
 </p>
 
-### **Backend Development**
+## 🖥 Backend
 <p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/apis" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="ASP.NET Web API" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" title="Java" />
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" width="40" title="Spring Boot" />
+  <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="Open Api" width="40" title="Open Api" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" title="MySQL" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="PHP" width="40" title="PHP" />
 </p>
 
-### **Databases**
+## 🛠 Tools
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" title="VSCode" />
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" title="IntelliJ IDEA" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" title="Postman" />
+  <img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" alt="Insomnia" width="40" title="Insomnia" />
 </p>
 
-### **Tools & Platforms**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="50" height="50"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" alt="IntelliJ IDEA" width="50" height="50"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman" width="50" height="50"/>
-  </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/insomnia.svg" alt="Insomnia" width="50" height="50"/>
-  </a>
-</p>
 
 
 ## 📊 GitHub Analytics
