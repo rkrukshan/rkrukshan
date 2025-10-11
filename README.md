@@ -44,19 +44,21 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 ## 🖥 Backend
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" title="Java" />
-  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" />
   <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" width="40" title="Spring Boot" />
   <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="Open Api" width="40" title="Open Api" />
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" title="MySQL" />
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" />
   <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="PHP" width="40" title="PHP" />
 </p>
 
 ## 🛠 Tools
 <p align="left">
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="VSCode" width="40" title="VSCode" />
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" title="VSCode" />
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" title="IntelliJ IDEA" />
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" title="Postman" />
-  <img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" alt="Insomnia" width="40" title="Insomnia" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="40" title="Insomnia" />
 </p>
 
 
