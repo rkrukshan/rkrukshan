@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
   <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" title="Framer Motion" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" title="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" title="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" title="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" title="JavaScript" /></a> 
 </p>
 
 ## 🖥 Backend
