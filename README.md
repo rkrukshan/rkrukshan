@@ -27,36 +27,36 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 ## ⚛️ Frontend
 <p align="left">
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" title="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" title="Next.js" /></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" title="Tailwind" /></a>
-  <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-1.svg" width="40" title="Bootstrap" /></a>
-  <a href="https://mui.com/material-ui/getting-started/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" title="MUI" /></a>
-  <a href="https://axios-http.com/docs/intro" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="Axios" width="40" title="Axios" /></a>
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" title="Redux" /></a>
-  <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" title="Framer Motion" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" title="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" title="JavaScript" /></a> 
+  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" title="React" /></a>
+  <a href="https://nextjs.org/docs"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" title="Next.js" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" title="Tailwind" /></a>
+  <a href="https://getbootstrap.com/docs/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-1.svg" width="40" title="Bootstrap" /></a>
+  <a href="https://mui.com/material-ui/getting-started/"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" title="MUI" /></a>
+  <a href="https://axios-http.com/docs/intro"><img src="https://cdn.worldvectorlogo.com/logos/axios.svg" alt="Axios" width="40" title="Axios" /></a>
+  <a href="https://redux.js.org/introduction/getting-started"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" title="Redux" /></a>
+  <a href="https://www.framer.com/motion/"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" title="Framer Motion" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" title="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" title="JavaScript" /></a>
 </p>
 
 ## 🖥 Backend
 <p align="left">
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" title="Java" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" width="40" title="Spring Boot" /></a>
-  <a href="https://swagger.io/specification/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="Open Api" width="40" title="Open Api" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" title="MySQL" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" /></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/php-15.png" alt="PHP" width="40" title="PHP" /></a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" title="Java" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" width="40" title="Spring Boot" /></a>
+  <a href="https://swagger.io/specification/"><img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="Open Api" width="40" title="Open Api" /></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" title="MySQL" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/"><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" /></a>
+  <a href="https://www.php.net/docs.php"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/php-15.png" alt="PHP" width="40" title="PHP" /></a>
 </p>
 
 ## 🛠 Tools
 <p align="left">
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" title="Git" /></a>
-  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" title="VSCode" /></a>
-  <a href="https://www.jetbrains.com/idea/documentation/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" title="IntelliJ IDEA" /></a>
-  <a href="https://learning.postman.com/docs/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" title="Postman" /></a>
-  <a href="https://docs.insomnia.rest/" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="40" title="Insomnia" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" title="Git" /></a>
+  <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" title="VSCode" /></a>
+  <a href="https://www.jetbrains.com/idea/documentation/"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="40" title="IntelliJ IDEA" /></a>
+  <a href="https://learning.postman.com/docs/"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" title="Postman" /></a>
+  <a href="https://docs.insomnia.rest/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="40" title="Insomnia" /></a>
 </p>
 
 
