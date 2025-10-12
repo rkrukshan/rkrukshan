@@ -48,7 +48,7 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
   <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="Open Api" width="40" title="Open Api" />
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" title="MySQL" />
   <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="40" title=".NET" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="PHP" width="40" title="PHP" />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/php-15.png" alt="PHP" width="40" title="PHP" />
 </p>
 
 ## 🛠 Tools
