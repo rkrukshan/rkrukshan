@@ -71,7 +71,6 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&theme=radical" alt="rkrukshan" /></p>
 
 </div>
-
 ## 📫 Let's Connect
 
 <div align="center">
