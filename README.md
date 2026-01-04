@@ -64,13 +64,14 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&locale=en" alt="rkrukshan" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkrukshan&show_icons=true&theme=radical&locale=en&layout=compact" alt="rkrukshan" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrukshan&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkrukshan&theme=radical" alt="rkrukshan" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=rkrukshan&theme=radical&hide_border=true)
 
 </div>
+
 ## 📫 Let's Connect
 
 <div align="center">
