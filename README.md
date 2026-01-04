@@ -64,13 +64,32 @@ I'm a passionate **Full-Stack Developer** from **Sri Lanka** with a curious mind
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+<!-- Multi-strategy cache busting -->
+<!-- Change any parameter below to force refresh -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrukshan&layout=compact&theme=radical&hide_border=true&langs_count=8)
+### GitHub Stats
+![rkrukshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrukshan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_buster=4)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rkrukshan&theme=radical&hide_border=true)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrukshan&theme=radical&hide_border=true&layout=compact&langs_count=10&cache_buster=4)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=rkrukshan&theme=radical&hide_border=true&fire=DD2727&cache_buster=4)
 
 </div>
+
+<!-- Cache Buster Instructions -->
+<details>
+<summary>🔄 How to refresh images</summary>
+
+If images show as broken or don't update:
+1. Change `&cache_buster=4` to `&cache_buster=5` (in all three URLs)
+2. Or add `&random=[ANY_NUMBER]` to each URL
+3. Or change theme: `&theme=dark` instead of `&theme=radical`
+4. Save and wait 5-10 minutes
+
+</details>
+
 
 ## 📫 Let's Connect
 
